@@ -3,6 +3,7 @@ import React from 'react';
 import Navbar from '@/components/Navbar';
 import LandingHero from '@/components/LandingHero';
 import ChatInterface from '@/components/ChatInterface';
+import { Heart } from "lucide-react";
 
 const Index = () => {
   return (
